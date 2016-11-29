@@ -1,0 +1,22 @@
+{
+  "name": "footballkings",
+  "version": '0.0.1",
+  "author": {
+  "name": "Khush Goyal",
+	    "email": "shivamrustagi2@gmail.com",
+	    "url": "https://github.com/Kewlstatics"
+  },
+  "contributors": [
+    {
+      "name": "HoeenHero",
+      "url": "https://github.com/Hoeencoder"
+    },
+    {
+      "name": "charizard8888",
+      "url": "https://github.com/charizard8888"
+    },
+    "repository": {
+		        "type": "git",
+		        "url": "https://github.com/Kewlstatics/Footballkings.git"
+	}
+}
