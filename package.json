@@ -14,9 +14,10 @@
     {
       "name": "charizard8888",
       "url": "https://github.com/charizard8888"
-    },
-    "repository": {
-		        "type": "git",
-		        "url": "https://github.com/Kewlstatics/Footballkings.git"
-	},
+    }
+   ],
+   "repository": {
+	"type": "git",
+	"url": "https://github.com/Kewlstatics/Footballkings.git"
+   }
 }
